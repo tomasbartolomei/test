@@ -9,3 +9,4 @@ b = 4
 print("agregando cosas")
 c = 3
 
+print("entonces A es 4")
